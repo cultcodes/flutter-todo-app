@@ -28,7 +28,7 @@ To use the Flutter ToDo App on your device or emulator, follow these steps:
 
 Here is a screenshot from the Flutter ToDo App:
 
-![App Screenshot](screenshots/Screenshot_20230830_193402.png)
+![App Screenshot](Screenshot_20230830_193402.png)
 
 ## Contributing
 
